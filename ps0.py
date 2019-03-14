@@ -3,7 +3,6 @@
 """
 Created on Thu Mar 14 12:45:27 2019
 
-@author: FD
 """
 import math
 x = int(input("Enter the number:"))
